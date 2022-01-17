@@ -1,0 +1,2 @@
+- Testing write in _itaclic_
+- Testing write **bold** 
